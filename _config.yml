@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: bazzi.gg blog
+name: bazzi.gg
 
 # Name of the author
 author: Plorence
@@ -24,7 +24,7 @@ footer-links:
   email: contact@bazzi.gg
   facebook:
   flickr:
-  github: https://github.com/bazzi-gg
+  github: bazzi-gg
   instagram:
   linkedin: 
   pinterest:
