@@ -4,26 +4,9 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+[bazzi.gg](https://bazzi.gg)는 카트라이더를 플레이하며 궁금했던 것들을 해소하기 위해 개발되었습니다.  
+bazzi.gg를 개발하면서 겪었던 경험이나, 개발하면서 겪었던 기술적인 이야기들을 담을 블로그입니다.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+## 기타 링크
 
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+- [Discord](https://discord.gg/BXcwFpFSc7)
