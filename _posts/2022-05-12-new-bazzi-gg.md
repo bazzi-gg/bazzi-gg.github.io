@@ -11,18 +11,18 @@ excerpt: 새로운 BAZZI.GG를 소개해드립니다.
 
 ## 메인 페이지
 
-![Untitled](/_posts/2022-05-12-new-bazzi-gg/Untitled.png)
+![Untitled](/images/2022-05-12-new-bazzi-gg/Untitled.png)
 
 현재 보고 계시는 이미지는 [BAZZI.GG](http://BAZZI.GG)의 홈페이지입니다.
 
-![Untitled](/_posts/2022-05-12-new-bazzi-gg/Untitled%201.png)
+![Untitled](/images/2022-05-12-new-bazzi-gg/Untitled%201.png)
 
 새로운 BAZZI.GG의 홈페이지입니다. 기존 페이지보다 좀 더 심플하고, 한정된 공간에 많은 데이터들을 담았습니다.  
 기본적으로 구글 Material 디자인을 참고하면서도 기존에 괜찮았던 것들은 가져가는 전략을 취했습니다.
 
 ## 프로/인플루언서 페이지
 
-![Untitled](/_posts/2022-05-12-new-bazzi-gg/Untitled%202.png)
+![Untitled](/images/2022-05-12-new-bazzi-gg/Untitled%202.png)
 
 현재 BAZZI.GG의 프로/인플루언서 페이지입니다.  
 단점으로 꼽자면 초록색 박스 대비 흰색 텍스트가 눈에 잘 들어오지 않는다는 점,  
@@ -30,7 +30,7 @@ excerpt: 새로운 BAZZI.GG를 소개해드립니다.
 
 정보 변경/추가 요청 버튼도 오른쪽 상단에 위치하고 있기 때문에 전체 화면으로 보시는 분들에게는 캐치하기 힘들다는 점도 있었습니다.
 
-![Untitled](/_posts/2022-05-12-new-bazzi-gg/Untitled%203.png)
+![Untitled](/images/2022-05-12-new-bazzi-gg/Untitled%203.png)
 
 새로운 BAZZI.GG의 프로/인플루언서 페이지입니다.  
 현재 웹사이트 대비 텍스트가 훨씬 잘 들어온다는 점,검색창도 적절한 위치에 배치되어 있고 필터 기능이 추가 됐습니다.  
@@ -38,14 +38,14 @@ excerpt: 새로운 BAZZI.GG를 소개해드립니다.
 
 ## 통계/매치 페이지
 
-![Untitled](/_posts/2022-05-12-new-bazzi-gg/Untitled%204.png)
+![Untitled](/images/2022-05-12-new-bazzi-gg/Untitled%204.png)
 
 현재 BAZZI.GG 통계/매치 페이지입니다.  
 단점은 제공되는 정보가 그리 많지 않다는 점, 전부다 차트형식으로 되어 있어서 쉽게 알 수 없다는 점입니다.  
 많은 분들이 요청하셨던 모드가 아닌 채널별 데이터도 아닙니다.  
 또한 당일 데이터는 다음날에 봐야 되고, 내가 원하는 날짜의 데이터를 볼 수 없다는 단점이 있었습니다.
 
-![Untitled](/_posts/2022-05-12-new-bazzi-gg/Untitled%205.png)
+![Untitled](/images/2022-05-12-new-bazzi-gg/Untitled%205.png)
 
 새로운 BAZZI.GG의 통계/매치 페이지입니다.  
 내가 원하는 날짜의 데이터를 볼 수 있고, 해당 데이터의 요약을 텍스트로 표시했습니다.  
@@ -53,20 +53,20 @@ excerpt: 새로운 BAZZI.GG를 소개해드립니다.
 
 ## 라이더 전적 페이지
 
-![Untitled](/_posts/2022-05-12-new-bazzi-gg/Untitled%206.png)
+![Untitled](/images/2022-05-12-new-bazzi-gg/Untitled%206.png)
 
 현재 BAZZI.GG 유저 전적 페이지입니다.  
 단점은 채널 선택 방식이 호불호가 갈리는 점, 매치 리스트들이 쓸데 없이 크다는 점이 있습니다.  
 전체적으로 텍스트간의 공백이 커서 쉽게 파악할 수 없는 단점도 있습니다.
 
-![Untitled](/_posts/2022-05-12-new-bazzi-gg/Untitled%207.png)
+![Untitled](/images/2022-05-12-new-bazzi-gg/Untitled%207.png)
 
 새로운 BAZZI.GG의 라이더 전적 페이지입니다.  
 현재 웹사이트 대비 더 적은 공간에 많은 데이터들을 배치해서 한눈에 보기 좋습니다.
 
 ## `NEW` Thanks!
 
-![Untitled](/_posts/2022-05-12-new-bazzi-gg/Untitled%208.png)
+![Untitled](/images/2022-05-12-new-bazzi-gg/Untitled%208.png)
 
 새로운 페이지인 Thanks 페이지입니다.  
 어떠한 것이든 BAZZI.GG에 기여해주신 분들을 대상으로 추가해드릴 예정입니다.  
